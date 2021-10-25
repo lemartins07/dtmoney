@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dt.money" title="dev.finances" src="./assets/logo.svg" width="220px" />
+  <img alt="dt.money" title="dev.finances" src="./src/assets/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="dtmoney" src="./assets/dtmoney.png" width="100%">
+  <img alt="dtmoney" src="./src/assets/dtmoney.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
